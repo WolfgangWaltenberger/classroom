@@ -4,3 +4,4 @@
 
  * [YouTube channel](https://www.youtube.com/WolfgangWaltenberger)
  * [slides](Folien.pdf)
+ * [Pruefungsmodalitaeten](pruefungsmodalitaeten.pdf)
