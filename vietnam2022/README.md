@@ -4,7 +4,7 @@ Repository for the machine learning class of the <a href=https://indico.in2p3.fr
 The repository contains skeleton code used for the exercises.
 
 # Run via google colab (recommended)
-<a href=https://colab.research.google.com/github/WolfgangWaltenberger/classroom/vietnam2022>google colab</a>
+<a href=https://colab.research.google.com/github/WolfgangWaltenberger/classroom>google colab</a>
 
 
 # Run via binder
